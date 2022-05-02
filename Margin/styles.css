@@ -1,0 +1,22 @@
+.one{
+    display: block;
+  background-color: palevioletred;
+  border-style: solid;
+  border:14px darkblue;
+  width:50%;
+  text-align:left;
+  padding-left: 27px;
+  padding-top: 35px;
+  padding-bottom: 35px;
+  }
+  
+  .two{
+  display: block;
+  width: 50%;
+  background-color: aqua;
+  margin-top: 12px;
+  border-style: solid;
+  border-color: 3px brown;
+  }
+  
+  
