@@ -1,22 +1,34 @@
 .one{
     display: block;
   background-color: palevioletred;
-  border-style: solid;
-  border:14px darkblue;
-  width:50%;
+  border:3px solid darkblue;
+  width:800px;
   text-align:left;
-  padding-left: 27px;
+  padding-left: 30px;
   padding-top: 35px;
   padding-bottom: 35px;
+  margin-left: 15px;
   }
   
   .two{
   display: block;
   width: 50%;
-  background-color: aqua;
+  background-color: skyblue;
   margin-top: 12px;
-  border-style: solid;
-  border-color: 3px brown;
+  border: 3px solid brown;
   }
   
+  .three{
+    display:block;
+    width:275px;
+    background-color: peachpuff;
+    margin-left: 30%;
+    margin-top: 50px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 15px;
+    padding-right: 5px;
+    border:3px solid brown;
+    
+  }
   
